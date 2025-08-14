@@ -10,6 +10,7 @@ Task:
 Output:
 
 ![alt text](image.png)
+
 1.Displays a table with columns such as:
 2.Country name
 3.Regional indicator
@@ -38,6 +39,7 @@ Task:
 Output:
 
 ![alt text](image-1.png)
+
 1.A summary showing the number of null values per column (often zero for this dataset).
 2.A cleaned dataset ready for analysis.
 
@@ -54,6 +56,7 @@ Task:
 Output:
 
 ![alt text](image-2.png)
+
 1.A table summarizing central tendencies and ranges for each metric.
 
 Example: Ladder score might range from ~2.4 (least happy) to ~7.7 (most happy).
@@ -70,6 +73,7 @@ Task:
 Output: 
 
 ![alt text](image-3.png)
+
 A histogram showing how happiness scores are distributed across all countries.
 
 Interpretation:
@@ -87,6 +91,7 @@ Task:
 Output: 
 
 ![alt text](image-4.png)
+
 A horizontal bar chart showing the happiest countries (e.g., Finland, Denmark, Iceland at the top).
 
 Interpretation:
@@ -104,6 +109,7 @@ Task:
 Output: 
 
 ![alt text](image-6.png)
+
 Scatter points with trend line.
 
 Interpretation:
@@ -119,6 +125,7 @@ Scatter plot Perceptions of corruption vs Ladder score.
 Output: 
 
 ![alt text](image-7.png)
+
 Countries with lower corruption perception scores are generally happier.
 
 Conclusion
